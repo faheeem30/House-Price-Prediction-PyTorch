@@ -108,6 +108,3 @@ curl -X POST http://127.0.0.1:5000/predict \
 * Real dataset integration + validation scheme (K-Fold)
 * Containerize API with Docker (optional)
 
----
-
-want me to drop in a tiny **“Results”** block you can update after training (placeholders for MAE/RMSE/R²)?
